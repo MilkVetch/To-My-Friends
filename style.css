@@ -1,0 +1,19 @@
+.title {
+  color: #111;
+  font-size: 1.4em;
+  display: block;
+}
+
+.detail {
+  display: block;
+}
+
+.artest {
+  color: rebeccapurple;
+  margin-left: 2.5em;
+}
+
+.album {
+  color: #666666;
+  margin-left: 2.5em;
+}
